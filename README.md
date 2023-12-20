@@ -22,6 +22,6 @@ Funcionalidades del Juego:
     
     Resultado: Después de determinar quién gana, muestra en pantalla el resultado del juego: indicando si ganó el jugador, la PC o si hubo un empate.
 
-  - El objetivo principal del juego "Piedra, Papel o Tijera" es ofrecer una experiencia de entretenimiento simple y divertida, donde los jugadores puedan participar en una competición rápida y emocionante de habilidad y   
+- El objetivo principal del juego "Piedra, Papel o Tijera" es ofrecer una experiencia de entretenimiento simple y divertida, donde los jugadores puedan participar en una competición rápida y emocionante de habilidad y   
     estrategia. A través de decisiones simples pero estratégicas, los jugadores deben intentar superar a su oponente (computadora) al elegir uno de los tres elementos: piedra, papel o tijera. El juego busca proporcionar d 
     iversión universal para todas las edades
