@@ -1,7 +1,8 @@
-# En el siguiente proyecto se dasarrollara el juego piedra, papel o tigera. Se realizará los diagramas de flujo, y la codificación se la reaizará en Python....
+o# En el siguiente proyecto se dasarrollara el juego piedra, papel o tigera. Se realizará los diagramas de flujo, y la codificación se la reaizará en Python....
 
-Funcionalidades del Proyecto
+Funcionalidades del Proyecto del Juego:
 
+Iniciamos:
 Bienvenida e Instrucciones: Al inicio, muestra un mensaje de bienvenida al juego y explica cómo jugar, indicando que se usan los números 1 para Piedra, 2 para Papel y 3 para Tijera.
 
 Elección del Usuario: El programa solicita al usuario que ingrese su elección (Piedra, Papel o Tijera), representada por 1, 2, 3 respectivamente.
